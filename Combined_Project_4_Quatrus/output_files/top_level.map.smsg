@@ -1,0 +1,3 @@
+Warning (10268): Verilog HDL information at Demodulation.sv(34): always construct contains both blocking and non-blocking assignments File: E:/ELEC391_Project/Combined_Project_4_Quatrus/files/Demodulation.sv Line: 34
+Info (10281): Verilog HDL Declaration information at AWGN_Channel.sv(18): object "GOOD_CHANNEL" differs only in case from object "Good_channel" in the same scope File: E:/ELEC391_Project/Combined_Project_4_Quatrus/files/AWGN_Channel.sv Line: 18
+Info (10281): Verilog HDL Declaration information at AWGN_Channel.sv(19): object "BAD_CHANNEL" differs only in case from object "Bad_channel" in the same scope File: E:/ELEC391_Project/Combined_Project_4_Quatrus/files/AWGN_Channel.sv Line: 19
