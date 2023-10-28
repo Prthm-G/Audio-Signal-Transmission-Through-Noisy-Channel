@@ -1,4 +1,4 @@
-# Noise-Filter-FPGA
+# Audio-Signal-Transmission-Through-Noisy-Channel
 
 ## Overview
 This project focuses on implementing a noise filtering system on an FPGA, aiming to transmit an audio signal through a noisy channel and recover it with minimal Bit Error Rate (BER). 
